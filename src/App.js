@@ -3,7 +3,7 @@ import Header from './Header.jsx'
 
 function App() {
   return (
-    <div className="App">
+    <div className="bg-neutral-900 h-screen">
       <Header />
     </div>
   );
